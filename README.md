@@ -46,6 +46,8 @@ A scoreboard app built with React
 
     Stats.js is a functional component that displays the total number of players and the total points of all players in the header of the app using the players prop passed to it.
 
+## Table of Contents
+
 - [scoreboard](#scoreboard)
   - [Example](#example)
   - [index.js](#indexjs)
@@ -58,3 +60,4 @@ A scoreboard app built with React
     - [Header.js](#headerjs)
     - [Icon.js](#iconjs)
     - [Stats.js](#statsjs)
+  - [Table of Contents](#table-of-contents)
