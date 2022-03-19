@@ -54,7 +54,7 @@ class App extends Component {
         }
       });
       const newPlayersState = prevState.players.map((player) => {
-        if (player.score === highestScore) {
+        if (player.score === highestScore && highestScore) {
           player.isHighScore = true;
         } else {
           player.isHighScore = false;
